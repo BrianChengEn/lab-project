@@ -4,7 +4,7 @@ This repo collects some projects I did in Professor Zhang's lab. The main conten
 
 
 ### Content
-* [unsupervised_TA](#Unsupervised_TA)
+* [Unsupervised_TA](#Unsupervised_TA)
     * [HW1](#HW1)
         * [AutoEncoder](#AutoEncoder)
         * [Auto-Encoding Variational Bayes (VAE)](#VAE)
