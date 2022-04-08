@@ -31,6 +31,7 @@ This repo collects some projects I did in Professor Zhang's lab. The main conten
 ### VAE
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 
+
 ![](https://i.imgur.com/Qz28jn3.png)
 ![](https://i.imgur.com/JjYvhPB.png)
 ![](https://i.imgur.com/SshryO0.png)
