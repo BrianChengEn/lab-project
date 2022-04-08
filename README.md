@@ -4,12 +4,12 @@ This repo collects some projects I did in Professor Zhang's lab. The main conten
 
 
 ### Content
-* unsupervised_TA
-    * HW1
+* [unsupervised_TA](#Unsupervised_TA)
+    * [HW1](#HW1)
         * [AutoEncoder](#AutoEncoder)
         * [Auto-Encoding Variational Bayes (VAE)](#VAE)
         * [GAN](#GAN)
-    * HW2
+    * [HW2](#HW2)
         * [VAE-GAN](#VAE-GAN)
         * [Conditional GAN (CGAN)](#CGAN)
         * [Deep Convolutional GAN (DCGAN)](#DCGAN)
