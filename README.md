@@ -24,7 +24,7 @@ This repo collects some projects I did in Professor Zhang's lab. The main conten
 ### AutoEncoder
 [Autoencoders](https://arxiv.org/pdf/2003.05991.pdf)
 
-![](unsupervised_TA/HW1/1-1/ae_mnist/Unknown)
+![](/unsupervised_TA/HW1/1-1/ae_mnist/Unknown)
 ![](https://i.imgur.com/6O4HbZf.png)
 ![](https://i.imgur.com/GJarAwM.png)
 
