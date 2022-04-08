@@ -24,9 +24,9 @@ This repo collects some projects I did in Professor Zhang's lab. The main conten
 ### AutoEncoder
 [Autoencoders](https://arxiv.org/pdf/2003.05991.pdf)
 
-![](https://github.com/BrianChengEn/lab-project/tree/main/unsupervised_TA/HW1/1-1/ae_mnist/Unknown)
-![](https://i.imgur.com/6O4HbZf.png)
-![](https://i.imgur.com/GJarAwM.png)
+![](/unsupervised_TA/HW1/1-1/ae_mnist/Unknown.png)
+![](/unsupervised_TA/HW1/1-1/ae_mnist/Unknown-1.png)
+![](/unsupervised_TA/HW1/1-1/ae_mnist/Unknown-2.png)
 
 ### VAE
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
