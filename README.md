@@ -8,15 +8,15 @@ This repo collects some projects I did in Professor Zhang's lab. The main conten
     * HW1
         * [AutoEncoder](###AutoEncoder)
         * [Auto-Encoding Variational Bayes (VAE)](###VAE)
-        * [Generative Adversarial Nets (GAN)](###GAN)
+        * [GAN](###GAN)
     * HW2
-        * [Autoencoding beyond pixels using a learned similarity metric (VAE-GAN)](###VAE-GAN)
-        * [Conditional Generative Adversarial Nets (CGAN)](###CGAN)
-        * [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS (DCGAN)](###DCGAN)
-* [Self-Attention Generative Adversarial Networks (SAGAN)](#SAGAN)
+        * [VAE-GAN](###VAE-GAN)
+        * [Conditional GAN (CGAN)](###CGAN)
+        * [Deep Convolutional GAN (DCGAN)](###DCGAN)
+* [Self-Attention GAN (SAGAN)](#SAGAN)
 * [WGAN](#WGAN)
-* [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](#infoGAN)
-* [A Style-Based Generator Architecture for Generative Adversarial Networks (styleGAN)](#styleGAN)
+* [InfoGAN](#infoGAN)
+* [StyleGAN](#styleGAN)
 
 # Unsupervised_TA
 ## HW1
